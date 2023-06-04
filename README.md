@@ -1,6 +1,6 @@
 # delivery project for dormitory
 
-Notion : https://elegant-linseed-940.notion.site/Bae-gather-1f9cc8ff28e24b21973fa2860349159a
+Notion : [https://elegant-linseed-940.notion.site/Bae-gather-1f9cc8ff28e24b21973fa2860349159a](https://www.notion.so/sucong2/Bae-gather-1f9cc8ff28e24b21973fa2860349159a)
 
 ###20220323
 
